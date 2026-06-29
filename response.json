@@ -1,0 +1,180 @@
+{
+    "data": {
+        "itemByIdentifier": {
+            "__typename": "Item",
+            "id": "5d4149c9a66a31fd869945bdcb112941",
+            "name": "Gorgez 1283",
+            "collection": {
+                "slug": "gorgez",
+                "__typename": "Collection",
+                "owner": {
+                    "displayName": "OGTripleDeployer",
+                    "isVerified": true,
+                    "address": "0x5adc3753e8ee8d284d231a38794f688ac30541c5",
+                    "__typename": "Profile",
+                    "kind": "ACCOUNT",
+                    "imageUrl": "https://i2c.seadn.io/profiles/0x5adc3753e8ee8d284d231a38794f688ac30541c5/avatar/97bc9c0ac51fb15eea2e1a0adb3324/0397bc9c0ac51fb15eea2e1a0adb3324.jpeg",
+                    "profileIsVerified": true,
+                    "isCompromised": false,
+                    "nftPfp": null
+                },
+                "standard": "ERC721",
+                "name": "DropDedGorgez",
+                "description": "Drop Ded Gorgez is an original NFT collection of 8,888 unique beings, forged through a ritual of chaos and order.\nA celebration of art, identity, and world-building where each Gorgez plays a role in the evolving universe of Los Gorgez.",
+                "id": "5a92a4e707964fd2bc769b78c5d2fea2",
+                "flags": {
+                    "isRarityDisabled": false,
+                    "__typename": "CollectionFlags"
+                },
+                "floorPrice": {
+                    "pricePerItem": {
+                        "usd": 54.037260190199994,
+                        "token": {
+                            "unit": 0.03439038,
+                            "symbol": "ETH",
+                            "contractAddress": "0x0000000000000000000000000000000000000000",
+                            "chain": {
+                                "identifier": "ethereum",
+                                "__typename": "Chain"
+                            },
+                            "__typename": "TokenPrice"
+                        },
+                        "__typename": "Price"
+                    },
+                    "__typename": "BestOrder"
+                },
+                "imageUrl": "https://i2c.seadn.io/ethereum/5a92a4e707964fd2bc769b78c5d2fea2/5ca3aea3328e0105bc6139e583d73e/565ca3aea3328e0105bc6139e583d73e.png",
+                "animationUrl": null,
+                "isVerified": true,
+                "chain": {
+                    "identifier": "ethereum",
+                    "name": "Ethereum",
+                    "__typename": "Chain"
+                },
+                "externalUrl": "",
+                "discordUrl": "",
+                "instagramUsername": "",
+                "twitterUsername": "DedGorgez",
+                "isTradingDisabled": false
+            },
+            "chain": {
+                "identifier": "ethereum",
+                "arch": "EVM",
+                "__typename": "Chain",
+                "name": "Ethereum"
+            },
+            "contractAddress": "0x9c51a3cb5094b26aa1dcb380f3dc7e1a7c681c2d",
+            "isFungible": false,
+            "tokenId": "1283",
+            "attributes": [
+                {
+                    "traitType": "Background",
+                    "value": "Soft Blue",
+                    "__typename": "StaticItemAttributeType"
+                },
+                {
+                    "traitType": "Bones",
+                    "value": "Lumen",
+                    "__typename": "StaticItemAttributeType"
+                },
+                {
+                    "traitType": "Clothes",
+                    "value": "BearWithUs T",
+                    "__typename": "StaticItemAttributeType"
+                },
+                {
+                    "traitType": "Glasses and Eyes",
+                    "value": "Gorgez Laser",
+                    "__typename": "StaticItemAttributeType"
+                }
+            ],
+            "enforcement": {
+                "isDisabled": false,
+                "__typename": "Enforcement",
+                "isCompromised": false,
+                "isOwnershipDisputed": false
+            },
+            "owner": {
+                "address": "0xcb5fce0afc3541e35bbc084f09d9626af97085e2",
+                "__typename": "Profile",
+                "isVerified": false,
+                "displayName": "HotDogWaters",
+                "imageUrl": null,
+                "kind": "ACCOUNT",
+                "profileIsVerified": false,
+                "isCompromised": false,
+                "nftPfp": null
+            },
+            "subscription": null,
+            "bestListing": null,
+            "version": 30000157,
+            "tokenUri": "https://drop.dedgorgez.com/1283",
+            "standard": "ERC721",
+            "isCreatorTokenRestrictedContract": true,
+            "metadataStorageLabel": "CENTRALIZED",
+            "description": "Drop Ded Gorgez is an original NFT collection of 8,888 unique beings, forged through a ritual of chaos and order.\nA celebration of art, identity, and world-building where each Gorgez plays a role in the evolving universe of Los Gorgez.",
+            "details": [],
+            "ensMetadata": null,
+            "totalSupply": 1,
+            "rarity": {
+                "rank": 2841,
+                "__typename": "ItemRarityType",
+                "category": "NONE",
+                "totalSupply": 8888
+            },
+            "bestOffer": {
+                "pricePerItem": {
+                    "usd": 49.67204,
+                    "token": {
+                        "unit": 0.0316,
+                        "symbol": "WETH",
+                        "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                        "chain": {
+                            "identifier": "ethereum",
+                            "__typename": "Chain"
+                        },
+                        "__typename": "TokenPrice",
+                        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+                    },
+                    "__typename": "Price"
+                },
+                "__typename": "BestOrder",
+                "maker": {
+                    "address": "0x9b25cf4f6b9caa84c877947d4f6c2982c6d607a3",
+                    "__typename": "OrderProfile"
+                }
+            },
+            "lastSale": {
+                "usd": 21.77666,
+                "token": {
+                    "unit": 0.0095,
+                    "symbol": "ETH",
+                    "contractAddress": "0x0000000000000000000000000000000000000000",
+                    "chain": {
+                        "identifier": "ethereum",
+                        "__typename": "Chain"
+                    },
+                    "__typename": "TokenPrice"
+                },
+                "__typename": "Price"
+            },
+            "imageUrl": "https://i2c.seadn.io/ethereum/0x9c51a3cb5094b26aa1dcb380f3dc7e1a7c681c2d/1443c7691962418b0dbf68ffa2d52c/cc1443c7691962418b0dbf68ffa2d52c.jpeg",
+            "externalUrl": null,
+            "originalImageUrl": "https://drop.dedgorgez.com/1283.jpg",
+            "originalAnimationUrl": null,
+            "isTransferLocked": false,
+            "animationUrl": null,
+            "backgroundColor": null,
+            "agentBinding": null
+        }
+    },
+    "extensions": {
+        "debugInfo": {
+            "additionalInformation": {
+                "cache-control": "public, max-age=1, stale-while-revalidate=1",
+                "x-trace-id": "940076c1c3aedbe0ec8763c0b43653b4",
+                "x-ratelimit-remaining": 399
+            }
+        }
+    }
+}

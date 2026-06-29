@@ -1,0 +1,150 @@
+{
+    "__typename": "Item",
+    "id": "800b379812323d46aa5a7c3d85697229",
+    "name": "Gorgez 2944",
+    "collection": {
+        "slug": "gorgez",
+        "__typename": "Collection",
+        "owner": {
+            "displayName": "OGTripleDeployer",
+            "isVerified": true,
+            "address": "0x5adc3753e8ee8d284d231a38794f688ac30541c5",
+            "__typename": "Profile",
+            "kind": "ACCOUNT",
+            "imageUrl": "https://i2c.seadn.io/profiles/0x5adc3753e8ee8d284d231a38794f688ac30541c5/avatar/97bc9c0ac51fb15eea2e1a0adb3324/0397bc9c0ac51fb15eea2e1a0adb3324.jpeg",
+            "profileIsVerified": true,
+            "isCompromised": false,
+            "nftPfp": null
+        },
+        "standard": "ERC721",
+        "name": "DropDedGorgez",
+        "description": "Drop Ded Gorgez is an original NFT collection of 8,888 unique beings, forged through a ritual of chaos and order.\nA celebration of art, identity, and world-building where each Gorgez plays a role in the evolving universe of Los Gorgez.",
+        "id": "5a92a4e707964fd2bc769b78c5d2fea2",
+        "flags": {
+            "isRarityDisabled": false,
+            "__typename": "CollectionFlags"
+        },
+        "floorPrice": {
+            "pricePerItem": {
+                "usd": 53.640896712499995,
+                "token": {
+                    "unit": 0.03399835,
+                    "symbol": "ETH",
+                    "contractAddress": "0x0000000000000000000000000000000000000000",
+                    "chain": {
+                        "identifier": "ethereum",
+                        "__typename": "Chain"
+                    },
+                    "__typename": "TokenPrice"
+                },
+                "__typename": "Price"
+            },
+            "__typename": "BestOrder"
+        },
+        "imageUrl": "https://i2c.seadn.io/ethereum/5a92a4e707964fd2bc769b78c5d2fea2/5ca3aea3328e0105bc6139e583d73e/565ca3aea3328e0105bc6139e583d73e.png",
+        "animationUrl": null,
+        "isVerified": true,
+        "chain": {
+            "identifier": "ethereum",
+            "name": "Ethereum",
+            "__typename": "Chain"
+        },
+        "externalUrl": "",
+        "discordUrl": "",
+        "instagramUsername": "",
+        "twitterUsername": "DedGorgez",
+        "isTradingDisabled": false
+    },
+    "chain": {
+        "identifier": "ethereum",
+        "arch": "EVM",
+        "__typename": "Chain",
+        "name": "Ethereum"
+    },
+    "contractAddress": "0x9c51a3cb5094b26aa1dcb380f3dc7e1a7c681c2d",
+    "isFungible": false,
+    "tokenId": "2944",
+    "attributes": null,
+    "enforcement": {
+        "isDisabled": false,
+        "__typename": "Enforcement",
+        "isCompromised": false,
+        "isOwnershipDisputed": false
+    },
+    "owner": {
+        "address": "0xd2bc00b438fb54c6366e3f9aa77944755b509b94",
+        "__typename": "Profile",
+        "isVerified": false,
+        "displayName": "0xkilla",
+        "imageUrl": "https://i2c.seadn.io/profiles/0xd2bc00b438fb54c6366e3f9aa77944755b509b94/avatar/daf72f514a54f67f9f6bc948d71c5e/badaf72f514a54f67f9f6bc948d71c5e.png",
+        "kind": "ACCOUNT",
+        "profileIsVerified": false,
+        "isCompromised": false,
+        "nftPfp": null
+    },
+    "subscription": null,
+    "bestListing": {
+        "id": "49105faeb8ff3f46802e3ef2c1a6095f",
+        "__typename": "BestOrder",
+        "pricePerItem": {
+            "usd": 141.839725,
+            "token": {
+                "unit": 0.0899,
+                "symbol": "ETH",
+                "contractAddress": "0x0000000000000000000000000000000000000000",
+                "chain": {
+                    "identifier": "ethereum",
+                    "__typename": "Chain"
+                },
+                "__typename": "TokenPrice"
+            },
+            "__typename": "Price"
+        }
+    },
+    "version": 30000171,
+    "tokenUri": "https://drop.dedgorgez.com/2944",
+    "standard": "ERC721",
+    "isCreatorTokenRestrictedContract": true,
+    "metadataStorageLabel": "CENTRALIZED",
+    "description": "Drop Ded Gorgez is an original NFT collection of 8,888 unique beings, forged through a ritual of chaos and order.\nA celebration of art, identity, and world-building where each Gorgez plays a role in the evolving universe of Los Gorgez.",
+    "details": [],
+    "ensMetadata": null,
+    "totalSupply": 1,
+    "rarity": {
+        "rank": 8032,
+        "__typename": "ItemRarityType",
+        "category": "NONE",
+        "totalSupply": 8888
+    },
+    "bestOffer": {
+        "pricePerItem": {
+            "usd": 64.68611,
+            "token": {
+                "unit": 0.041,
+                "symbol": "WETH",
+                "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "chain": {
+                    "identifier": "ethereum",
+                    "__typename": "Chain"
+                },
+                "__typename": "TokenPrice",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "__typename": "Price"
+        },
+        "__typename": "BestOrder",
+        "maker": {
+            "address": "0xe37025a7b6ca75d50db58cf9654ca1137b1fc2f6",
+            "__typename": "OrderProfile"
+        }
+    },
+    "lastSale": null,
+    "imageUrl": "https://i2c.seadn.io/ethereum/0x9c51a3cb5094b26aa1dcb380f3dc7e1a7c681c2d/e30ef37c896267069ec1c09ec7b4ad/0de30ef37c896267069ec1c09ec7b4ad.jpeg",
+    "externalUrl": null,
+    "originalImageUrl": "https://drop.dedgorgez.com/ddg.jpg",
+    "originalAnimationUrl": "https://drop.dedgorgez.com/ddg.mov",
+    "isTransferLocked": false,
+    "animationUrl": "https://raw2.seadn.io/ethereum/0x9c51a3cb5094b26aa1dcb380f3dc7e1a7c681c2d/20e4765ca935fed065f00ab8569485/9020e4765ca935fed065f00ab8569485.mov",
+    "backgroundColor": null,
+    "agentBinding": null
+}
